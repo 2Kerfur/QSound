@@ -1,0 +1,6 @@
+**/.vs
+**/.git
+**/QSound/x64
+*.vcxproj
+*.filters
+*.user
